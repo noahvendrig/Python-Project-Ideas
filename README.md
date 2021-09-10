@@ -3,7 +3,11 @@
 Here's a list of python projects you can try to do. I'll be adding to this as time goes by and they range in difficulty (not reccomended to try neural networks until you have a strong understanding of how to use python)
 
 ## Before the project list
+### Anaconda
 Before beginning these projects, install Anaconda. It's a program that makes it easier to manage packages that you install and avoid conflicts between them. For instance I generally create a new environment for each new large-ish / Important project I start. Other general projects I dont really care about I use a test environment for. Very handy.
+
+### Other Stuff
+Another good way to learn is to also try things like [leetcode](https://leetcode.com/problemset/all/) or [clash of code](https://www.codingame.com/multiplayer/clashofcode) to learn the style of problem solving you need for programming as well as getting used to Python. These are just two examples of tools I find handy but you may discover other things that work for you
 
 ## General Projects
 
