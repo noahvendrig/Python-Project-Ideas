@@ -10,6 +10,7 @@ General Ideas (Python)
 9. Tool that finds cheapest listing of a product on the market
 
 Image processing (OpenCV or Pillow) Some could fall under neural networks it just depends on the approach
+Maybe check out https://www.pyimagesearch.com/category/image-processing/
 1. Webcam Motion Detector
 2. Merge two images into one and
 3. Pixellate an image to a desired pixel size (instead of using the opencv methods, try using a method like setting the RGB value of pixels in an area to their average)
@@ -17,6 +18,7 @@ Image processing (OpenCV or Pillow) Some could fall under neural networks it jus
 5. Scanner app (detect parts of a document that contain text and contrast more)
 6. Background removal
 7. Colourblind filter
+
 
 Neural Networks (quite complex)
 1. Poem generator (natural language processing)
@@ -48,7 +50,6 @@ Neural Networks (quite complex)
 27. Music lyric extractor
 28. Insurance forecaster (health, regression modeeling)
 29. Translation App (voice recognition but across languages)
-30. 
 
 
 
